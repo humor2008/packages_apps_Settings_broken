@@ -63,7 +63,6 @@
         <com.android.settings.broken.SystemSettingSwitchPreference
             android:key="clock_use_second"
             android:title="@string/status_bar_show_clock_second_title"
-            android:defaultValue="false"
-            android:dependency="status_bar_show_clock" />
+            android:defaultValue="false" />
 
 </PreferenceScreen>
